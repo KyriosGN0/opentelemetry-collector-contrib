@@ -167,6 +167,7 @@ require (
 	go.opentelemetry.io/collector/config/configgrpc v0.153.0 // indirect
 	go.opentelemetry.io/collector/config/configmiddleware v1.59.0 // indirect
 	go.opentelemetry.io/collector/config/confignet v1.59.0 // indirect
+	go.opentelemetry.io/collector/config/configretry v1.59.0
 	go.opentelemetry.io/collector/consumer/consumererror v0.153.0 // indirect
 	go.opentelemetry.io/collector/extension/extensionauth v1.59.0 // indirect
 	go.opentelemetry.io/collector/extension/extensionmiddleware v0.153.0 // indirect
